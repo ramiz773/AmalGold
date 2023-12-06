@@ -1,0 +1,38 @@
+export const navlinkData = [
+   {
+      label: "Home",
+      activeClass: "active",
+      to: "/",
+      spy: "true",
+      smooth: "true",
+      offset: "50 ",
+      duration: "500",
+   },
+   {
+      label: "About Us",
+      activeClass: "active",
+      to: "about",
+      spy: "true",
+      smooth: "true",
+      offset: "50 ",
+      duration: "500",
+   },
+   {
+      label: "Service",
+      activeClass: "active",
+      to: "service",
+      spy: "true",
+      smooth: "true",
+      offset: "50 ",
+      duration: "500",
+   },
+   {
+      label: "Contact",
+      activeClass: "active",
+      to: "contact",
+      spy: "true",
+      smooth: "true",
+      offset: "50 ",
+      duration: "500",
+   },
+];
